@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @carlosrca
-- 👀 I’m interested Godot Engine, GNU/Linux.
+- 👀 I’m interested in Godot Engine, GNU/Linux.
 - 🌱 I’m currently learning Django, web accessibility.
 - 💞️ I’m looking to collaborate on desktop environment development.
 <!--- - 📫 How to reach me ... --->
