@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @carlosrca
-- 👀 I’m interested in Godot Engine, GNU/Linux.
+- 👀 I’m interested in Godot Engine and video game development.
 - 🌱 I’m currently learning Django, web accessibility.
-- 💞️ I’m looking to collaborate on desktop environment development.
-<!--- - 📫 How to reach me ... --->
+<!--- - 💞️ I’m looking to collaborate on desktop environment development.
+- 📫 How to reach me ... --->
 
 <!---
 carlosrca/carlosrca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
