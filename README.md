@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carlosrca
-- 👀 I’m interested in Godot Engine and video game development.
-- 🌱 I’m currently learning Django, web accessibility.
+- 🌱 I’m currently learning and developing Django and web technologies.
+- - 👀 I’m interested in Godot Engine and video game development.
 <!--- - 💞️ I’m looking to collaborate on desktop environment development.
 - 📫 How to reach me ... --->
 
