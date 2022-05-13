@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @carlosrca
-- 🌱 I’m currently learning and developing web projects with Django framework.
-- 👀 I’m interested in Godot Engine for 2D Game Development.
+- 👋 Hello World!
+- 🌱 I'm currently learning software development.
+- 👀 I'm interested in Python Java and Kotlin programming languages.
 <!--- - 💞️ I’m looking to collaborate on desktop environment development.
 - 📫 How to reach me ... --->
 
