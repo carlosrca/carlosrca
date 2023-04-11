@@ -1,6 +1,7 @@
 - 👋 Hello World!
 - 🌱 I'm currently learning software development.
-- 👀 I'm interested in Python Java and Kotlin programming languages.
+- 👀 I'm interested in Python, Java and Kotlin programming languages.
+- ✏️ I'm curious about Computer Graphics.
 <!--- - 💞️ I’m looking to collaborate on desktop environment development.
 - 📫 How to reach me ... --->
 
